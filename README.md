@@ -7,13 +7,6 @@ A digital wallet in which user can add balance, update balance, create/update/de
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) ![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-000000?logo=lucide&logoColor=white) ![Iconify](https://img.shields.io/badge/Iconify-1769AA?logo=iconify&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-111827?logo=radixui&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 
 
-***Blogging App***  
-A blogging app can update read delete posts.  
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://react-blogging-app-teal.vercel.app)  
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=reactrouter&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?logo=reacthookform&logoColor=white) ![TinyMCE](https://img.shields.io/badge/TinyMCE-0B6EFD?logo=tinymce&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white) ![Lucide React](https://img.shields.io/badge/Lucide_Icons-000000?logo=lucide&logoColor=white) ![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?logo=react&logoColor=white)
-
-
 ***Portfolio Website***
 A simple and responsive personal portfolio built with vanilla web technologies.  
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://abdullahbutt09.github.io)
