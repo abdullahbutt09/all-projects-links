@@ -42,13 +42,6 @@ A simple and efficient task management app to add, update, and track daily todos
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 
 
-***React Counter***  
-A simple counter app with increment, decrement, and reset functionality built using React and styled with Tailwind CSS.  
-[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://react-counter-bay.vercel.app)  
-
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-
 ***React Currency Converter***  
 A currency converter app that fetches real-time exchange rates from an API and provides quick, accurate conversions with a modern UI.  
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-blue?style=for-the-badge)](https://react-currency-converter-ashen.vercel.app)  
